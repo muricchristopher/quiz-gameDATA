@@ -70,5 +70,5 @@
       "c": "Mac OS",
       "d": "Linux",
       "correct": "d"
-    },   
+    }
 ]
